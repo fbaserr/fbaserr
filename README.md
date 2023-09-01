@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatih Başer.
+- 👋 Hi, I’m Fatih Başer. I am working as a QA Engineer at Türk Telekom, one of the biggest telecommunication companies in Turkey.
 - 👀 I’m interested in taking notes and uploading basic exercises for myself and new learners like me.
 - 🌱 I’m currently learning more and more stuff about Manual Testing. Also eager to learn Test Automation by using Python.
 - 📫 How to reach me fatihhbaser@gmail.com
